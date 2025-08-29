@@ -1,4 +1,4 @@
-# ⚡ Solar Panel Defect Detection using CNN
+# ⚡ PV Defect Detection using CNN
 
 ## 📌 Overview
 This project applies **Convolutional Neural Networks (CNNs)** to detect **defects in solar cells** such as **cracks and inactive regions** using **Electroluminescence (EL) images**.  
